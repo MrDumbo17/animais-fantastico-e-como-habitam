@@ -1,0 +1,94 @@
+.ficha {
+    height: 90vh;
+    width: 400px;
+    border: 3px solid rgb(65, 65, 65);
+    color : rgb(77, 0, 0);
+    background-color: #8f8f8f;
+    padding: 7px 10px;
+    margin: 0;
+    
+    overflow: hidden;
+    overflow-y: auto ;
+
+}
+
+.ficha h1 {
+    color: #efefef;
+    padding: 10px 5px;
+}
+.ficha section {
+    border-bottom: 1px solid rgb(83, 83, 83);
+}
+
+.secinfo {
+    display: flex;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.secinfo p {
+    display: inline;
+    margin: 10px;
+    
+}
+
+.secinfo span {
+    
+    font-weight: bolder;
+    font-size: 1.1em;
+    display: block;
+}
+
+.status {
+    margin: 7px;
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.status div {
+    margin: 1px 2px;
+    padding: 5px;
+    box-shadow: 1px 2px 14px 6px #4444443b;
+    border-radius: 10px;
+}
+.status span {
+    
+    font-weight: bolder;
+    display: block;
+}
+
+.desc{
+    margin: 7px;
+    padding: 3px;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+
+}
+.desc div {
+    display: flex;
+    justify-content: left;
+}
+
+.desc div>p {
+    text-align: left;
+    margin: 0px;
+}
+.desc p {
+
+    
+    flex-wrap: wrap;
+    margin: 4px 1px;
+    
+
+}
+.desc span {
+
+    display: inline-block;
+    font-weight: bolder;
+}

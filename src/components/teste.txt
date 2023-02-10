@@ -1,0 +1,10 @@
+                <Skill Nome={animal.Skill.Nome} event={setDesc}/>
+                <Container>
+                {
+                    Desc && <p>{Desc}</p>
+                }
+                </Container>
+
+
+
+                

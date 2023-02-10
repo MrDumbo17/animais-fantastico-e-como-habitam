@@ -1,0 +1,27 @@
+.lista {
+    margin-top: 5px;
+    text-align: left;
+    padding: 7px 5px;
+}
+
+.lista ul {
+    list-style: none;
+}
+
+.lista div {
+    width: auto;
+    margin: 5px;
+}
+.lista div>h2 {
+    color: #efefef;
+    margin: 3px;
+    text-align: center;
+}
+.item {
+    cursor: pointer;
+    margin: 5px 3px;
+}
+
+.item:hover {
+    text-decoration:  underline;
+}
