@@ -1,0 +1,458 @@
+[
+  {
+    "Nome": "Lobo Atroz",
+    "PV": 37,
+    "CA": 14,
+    "Deslocamento": 15,
+    "FOR": 17,
+    "DES": 15,
+    "CON": 16,
+    "INT": 3,
+    "SAB": 12,
+    "CAR": 7,
+    "Perícias": "Furtividade +4; Percepção +3",
+    "Sentidos": "Percepção Passiva 13",
+    "Idiomas": "-",
+    "Nível": 1,
+    "Skils": [
+      {
+        "Nome": "Audição e Faro Aguçados",
+        "Descrição": "O lobo tem vantagem em testes de Sabedoria (Percepção) relacionados à audição e ao olfato."
+      },
+      {
+        "Nome": "Táticas de Matilha",
+        "Descrição": "O lobo tem vantagem nas jogadas de ataque contra uma criatura se, pelo menos, um dos aliados do lobo estiver a 1,5 metro da criaturas e não estiver incapacitado."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 10 (2d6 + 3) de dano perfurante. Se o alvo for uma criatura, ela deve ser bem sucedida num teste de resistência de Força CD 13 ou será derrubada no chão."
+      }
+    ]
+  },
+  {
+    "Nome": "Urso Marrom",
+    "PV": 34,
+    "CA": 11,
+    "Deslocamento": 12,
+    "FOR": 19,
+    "DES": 10,
+    "CON": 16,
+    "INT": 2,
+    "SAB": 13,
+    "CAR": 7,
+    "Perícias": "Percepção +3",
+    "Sentidos": "Percepção Passiva 13",
+    "Idiomas": "-",
+    "Nível": 1,
+    "Skils": [
+      {
+        "Nome": "Faro Aguçado",
+        "Descrição": "O urso tem vantagem em testes de Sabedoria (Percepção) relacionados ao olfato."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Ataques Múltiplos",
+        "Descrição": "O urso realiza dois ataques: um com sua mordida e um com suas garras"
+      },
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 8 (1d8 + 4) de dano perfurante."
+      },
+      {
+        "Nome": "Garras",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 11 (2d6 + 4) de dano cortante."
+      }
+    ]
+  },
+  {
+    "Nome": "Tigre",
+    "PV": 37,
+    "CA": 12,
+    "Deslocamento": 12,
+    "FOR": 17,
+    "DES": 15,
+    "CON": 14,
+    "INT": 3,
+    "SAB": 12,
+    "CAR": 8,
+    "Perícias": "Furtividade +6; Percepção +3",
+    "Sentidos": "Percepção Passiva 13",
+    "Idiomas": "-",
+    "Nível": 1,
+    "Skils": [
+      {
+        "Nome": "Bote",
+        "Descrição": "Se o tigre se mover, pelo menos, 6 metros em linha reta em direção de um alvo logo antes de atingi-lo com seu ataque de garra, o alvo deve ser bem sucedido num teste de resistência de Força CD 13 para não cair no chão. Se o alvo cair no chão, o tigre poderá realizar uma ação bônus para realizar um ataque de mordida contra ele."
+      },
+      {
+        "Nome": "Faro Aguçado",
+        "Descrição": "O tigre tem vantagem em testes de Sabedoria (Percepção) relacionados ao olfato."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 8 (1d10 + 3) de dano perfurante."
+      },
+      {
+        "Nome": "Garras",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 7 (1d8 + 3) de dano cortante."
+      }
+    ]
+  },
+  {
+    "Nome": "Leão",
+    "PV": 26,
+    "CA": 12,
+    "Deslocamento": 15,
+    "FOR": 17,
+    "DES": 15,
+    "CON": 13,
+    "INT": 3,
+    "SAB": 12,
+    "CAR": 8,
+    "Perícias": "Furtuvidade +6; Percepção +3",
+    "Sentidos": "",
+    "Idiomas": "-",
+    "Nível": 1,
+    "Skils": [
+      {
+        "Nome": "Bote",
+        "Descrição": "Se o leão se mover, pelo menos, 6 metros em linha reta em direção de um alvo logo antes de atingi-lo com seu ataque de garra, o alvo deve ser bem sucedido num teste de resistência de Força CD 13 para não cair no chão. Se o alvo cair no chão, o leão poderá realizar uma ação bônus para realizar um ataque de mordida contra ele."
+      },
+      {
+        "Nome": "Faro Aguçado",
+        "Descrição": "O leão tem vantagem em testes de Sabedoria (Percepção) relacionados ao olfato."
+      },
+      {
+        "Nome": "Salto em Corrida",
+        "Descrição": "Como parte do seu movimento e depois de uma corrida inicial de 3 metros, o leão pode realizar um salto em distância de até 7,5 metros."
+      },
+      {
+        "Nome": "Táticas de Matilha",
+        "Descrição": "O leão tem vantagem nas jogadas de ataque contra uma criatura se, pelo menos, um dos aliados do leão estiver a 1,5 metro da criaturas e não estiver incapacitado."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 7 (1d8 + 3) de dano perfurante."
+      },
+      {
+        "Nome": "Garras",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 6 (1d6 + 3) de dano cortante."
+      }
+    ]
+  },
+  {
+    "Nome": "Pantera",
+    "PV": 13,
+    "CA": 12,
+    "Deslocamento": 15,
+    "FOR": 14,
+    "DES": 15,
+    "CON": 10,
+    "INT": 3,
+    "SAB": 14,
+    "CAR": 7,
+    "Perícias": "Furtividade +6; Percepção +4",
+    "Sentidos": "Percepção passiva 14",
+    "Idiomas": "-",
+    "Nível": "1/4",
+    "Skils": [
+      {
+        "Nome": "Bote",
+        "Descrição": "Se a pantera se mover, pelo menos, 6 metros em linha reta em direção de um alvo logo antes de atingi-lo com seu ataque de garra, o alvo deve ser bem sucedido num teste de resistência de Força CD 12 para não cair no chão. Se o alvo cair no chão, a pantera poderá realizar uma ação bônus para realizar um ataque de mordida contra ele."
+      },
+      {
+        "Nome": "Faro Aguçado",
+        "Descrição": "A pantera tem vantagem em testes de Sabedoria (Percepção) relacionados ao olfato."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo. Acerto: 5 (1d6 + 2) de dano perfurante."
+      },
+      {
+        "Nome": "Garras",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo. Acerto: 4 (1d4 + 2) de dano cortante."
+      }
+    ]
+  },
+  {
+    "Nome": "Hiena Gigante",
+    "PV": 45,
+    "CA": 12,
+    "Deslocamento": 15,
+    "FOR": 16,
+    "DES": 14,
+    "CON": 14,
+    "INT": 2,
+    "SAB": 12,
+    "CAR": 7,
+    "Perícias": "Percepção +3",
+    "Sentidos": "Percepção passiva 13",
+    "Idiomas": "-",
+    "Nível": 1,
+    "Skils": [
+      {
+        "Nome": "Frenesi",
+        "Descrição": "Quando a hiena reduz uma criatura a 0 pontos de vida com um ataque corpo-a-corpo no seu turno, ela pode realizar uma ação bônus para se mover até metade do seu deslocamento e realizar um ataque de mordida."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 10 (2d6 + 3) de dano perfurante."
+      }
+    ]
+  },
+  {
+    "Nome": "Cavalo de Guerra",
+    "PV": 19,
+    "CA": 11,
+    "Deslocamento": 18,
+    "FOR": 18,
+    "DES": 12,
+    "CON": 13,
+    "INT": 2,
+    "SAB": 12,
+    "CAR": 7,
+    "Perícias": "-",
+    "Sentidos": "Percepção passiva 11",
+    "Idiomas": "-",
+    "Nível": "1/2",
+    "Skils": [
+      {
+        "Nome": "Atropelar",
+        "Descrição": "Se o cavalo se mover, pelo menos, 6 metros em linha reta em direção de um alvo logo antes de atingi-lo com seu ataque de cascos, o alvo deve ser bem sucedido num teste de resistência de Força CD 14 para não cair no chão. Se o alvo cair no chão, o cavalo poderá realizar uma ação bônus para realizar outro ataque de cascos contra ele."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Cascos",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +6 para atingir, alcance 1,5 m, um alvo. Acerto: 11 (2d6 + 4) de dano de concussão."
+      }
+    ]
+  },
+  {
+    "Nome": "Texugo Gigante",
+    "PV": 13,
+    "CA": 10,
+    "Deslocamento": 9,
+    "FOR": 13,
+    "DES": 10,
+    "CON": 15,
+    "INT": 2,
+    "SAB": 12,
+    "CAR": 5,
+    "Perícias": "-",
+    "Sentidos": "Visão no Escuro 9m ; Percepção passiva 11",
+    "Idiomas": "-",
+    "Nível": "1/4",
+    "Skils": [
+      {
+        "Nome": "Faro Aguçados",
+        "Descrição": "O texugo tem vantagem em testes de Sabedoria (Percepção) relacionados ao olfato."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Ataques Múltiplos.",
+        "Descrição": "O texugo realiza dois ataques: um com sua mordida e um com suas garras."
+      },
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance 1,5 m, um alvo. Acerto: 4 (1d6 + 1) de dano perfurante."
+      },
+      {
+        "Nome": "Garras",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance 1,5 m, um alvo. Acerto: 6 (2d4 + 1) de dano cortante."
+      }
+    ]
+  },
+  {
+    "Nome": "Aranha Gigante",
+    "PV": 26,
+    "CA": 14,
+    "Deslocamento": 9,
+    "FOR": 14,
+    "DES": 16,
+    "CON": 12,
+    "INT": 2,
+    "SAB": 11,
+    "CAR": 4,
+    "Perícias": "Furtividade +7",
+    "Sentidos": "percepção às cegas 3 m, visão no escuro 18 m, Percepção passiva 10",
+    "Idiomas": "-",
+    "Nível": 1,
+    "Skils": [
+      {
+        "Nome": "Escalada Aracnídea",
+        "Descrição": "A aranha pode escalar superfícies difíceis, incluindo tetos de cabeça para baixo, sem precisar realizar um teste de habilidade.",
+        "Dano": "1d3"
+      },
+      {
+        "Nome": "Andar na Teia",
+        "Descrição": "A aranha ignora restrições de movimento causadas por estar numa teia.",
+        "Dano": "1d5"
+      },
+      {
+        "Nome": "Sentido na Teia",
+        "Descrição": "Quando em contato com uma teia, a aranha sabe a localização exata de qualquer outra criatura em contato com a mesma teia.",
+        "Dano": "3d123"
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida.",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir,\nalcance 1,5 m, uma criatura. Acerto: 7 (1d8 + 3) de dano\nperfurante e o alvo deve realizar um teste de resistência de\nConstituição CD 11, sofrendo 9 (2d8) de dano de veneno se falhar\nna resistência ou metade desse dano se obtiver sucesso. Se o\ndano de veneno reduzir o alvo a 0 pontos de vida, o alvo estará\nestável, porém, envenenado, por 1 hora e paralisado enquanto\nestiver envenenado dessa forma."
+      },
+      {
+        "Nome": "Teia (Recarrega 5–6)",
+        "Descrição": "Ataque à Distância com Arma: +5 para atingir, alcance 9 m/ 18 m, uma criatura. Acerto: O alvo ficará impedido pela teia. Com uma ação, o alvo impedido pode realizar um teste de Força CD 12, rompendo a teia com sucesso. A teia também pode ser atacada e destruída (CA 10; 5 pv; vulnerabilidade a fogo; imune a dano de concussão, veneno e psíquico)."
+      }
+    ]
+  },
+  {
+    "Nome": "Aranha-Lobo Gigante",
+    "PV": 11,
+    "CA": 13,
+    "Deslocamento": 12,
+    "FOR": 12,
+    "DES": 16,
+    "CON": 13,
+    "INT": 3,
+    "SAB": 12,
+    "CAR": 4,
+    "Perícias": "Furtividade +7 ; Percepção +3",
+    "Sentidos": "percepção às cegas 3 m, visão no escuro 18 m, Percepção passiva 13",
+    "Idiomas": "-",
+    "Nível": "1/4",
+    "Skils": [
+      {
+        "Nome": "Escalada Aracnídea",
+        "Descrição": "A aranha pode escalar superfícies difíceis, incluindo tetos de cabeça para baixo, sem precisar realizar um teste de habilidade.",
+        "Dano": "1d3"
+      },
+      {
+        "Nome": "Andar na Teia",
+        "Descrição": "A aranha ignora restrições de movimento causadas por estar numa teia.",
+        "Dano": "1d5"
+      },
+      {
+        "Nome": "Sentido na Teia",
+        "Descrição": "Quando em contato com uma teia, a aranha sabe a localização exata de qualquer outra criatura em contato com a mesma teia.",
+        "Dano": "3d123"
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida.",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance 1,5 m, uma criatura. Acerto: 4 (1d6 + 1) de dano perfurante e o alvo deve realizar um teste de resistência de Constituição CD 11, sofrendo 7 (2d6) de dano de veneno se falhar na resistência ou metade desse dano se obtiver sucesso. Se o dano de veneno reduzir o alvo a 0 pontos de vida, o alvo estará estável, porém, envenenado, por 1 hora e paralisado enquanto estiver envenenado dessa forma."
+      }
+    ]
+  },
+  {
+    "Nome": "Aranha",
+    "PV": 1,
+    "CA": 12,
+    "Deslocamento": 6,
+    "FOR": 2,
+    "DES": 14,
+    "CON": 8,
+    "INT": 1,
+    "SAB": 10,
+    "CAR": 2,
+    "Perícias": "Furtividade +4",
+    "Sentidos": "Visão no escuro 18m;Percepção passiva 10",
+    "Idiomas": "-",
+    "Nível": 0,
+    "Skils": [
+      {
+        "Nome": "Escalada Aracnídea",
+        "Descrição": "A aranha pode escalar superfícies difíceis, incluindo tetos de cabeça para baixo, sem precisar realizar um teste de habilidade.",
+        "Dano": "1d3"
+      },
+      {
+        "Nome": "Andar na Teia",
+        "Descrição": "A aranha ignora restrições de movimento causadas por estar numa teia.",
+        "Dano": "1d5"
+      },
+      {
+        "Nome": "Sentido na Teia",
+        "Descrição": "Quando em contato com uma teia, a aranha sabe a localização exata de qualquer outra criatura em contato com a mesma teia.",
+        "Dano": "3d123"
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Mordida",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, uma criatura. Acerto:1 de dano perfurante e o alvo deve ser bem sucedido num teste de resistência de Constituição CD 9 ou sofrerá 2 (1d4) de dano de veneno."
+      }
+    ]
+  },
+  {
+    "Nome": "Gato",
+    "PV": 2,
+    "CA": 12,
+    "Deslocamento": 12,
+    "FOR": 3,
+    "DES": 15,
+    "CON": 10,
+    "INT": 3,
+    "SAB": 12,
+    "CAR": 7,
+    "Perícias": "Furtividade +4; Percepção +3",
+    "Sentidos": "Percepção passiva 13",
+    "Idiomas": "-",
+    "Nível": 0,
+    "Skils": [
+      {
+        "Nome": "Faro Aguçado",
+        "Descrição": "O gato tem vantagem em testes de Sabedoria\n(Percepção) relacionados ao olfato."
+      }
+    ],
+    "Ações": [
+      {
+        "Nome": "Garras",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +0 para atingir, alcance 1,5 m, um alvo. Acerto: 1 de dano cortante."
+      }
+    ]
+  },
+  {
+    "Nome": "Gorila",
+    "PV": 19,
+    "CA": 12,
+    "Deslocamento": 9,
+    "FOR": 16,
+    "DES": 14,
+    "CON": 14,
+    "INT": 6,
+    "SAB": 12,
+    "CAR": 7,
+    "Perícias": "Atletismo +5, Percepção +3",
+    "Sentidos": "Percepção passiva 13",
+    "Idiomas": "-",
+    "Nível": "1/2",
+    "Skils": "-",
+    "Ações": [
+      {
+        "Nome": "Ataques Múltiplos",
+        "Descrição": "O gorila realiza dois ataques de punho."
+      },
+      {
+        "Nome": "Punho",
+        "Descrição": "Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo. Acerto: 6 (1d6 + 3) de dano de concussão."
+      },
+      {
+        "Nome": "Rocha",
+        "Descrição": "Ataque à Distância com Arma: +5 para atingir, distância 7,5/15 m, um alvo. Acerto: 6 (1d6 + 3) de dano de concussão."
+      }
+    ]
+  }
+]

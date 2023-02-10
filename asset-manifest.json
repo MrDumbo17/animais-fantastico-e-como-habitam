@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animais-fantastico-e-como-habitam/static/css/main.7ea193e5.css",
+    "main.js": "/animais-fantastico-e-como-habitam/static/js/main.1bdce135.js",
+    "index.html": "/animais-fantastico-e-como-habitam/index.html",
+    "main.7ea193e5.css.map": "/animais-fantastico-e-como-habitam/static/css/main.7ea193e5.css.map",
+    "main.1bdce135.js.map": "/animais-fantastico-e-como-habitam/static/js/main.1bdce135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea193e5.css",
+    "static/js/main.1bdce135.js"
+  ]
+}
